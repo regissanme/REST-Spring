@@ -1,4 +1,4 @@
-package br.com.regissanme.RESTSpring;
+package br.com.regissanme;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
